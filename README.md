@@ -1,3 +1,4 @@
-# documentos
+# Artefatos documentais
 
-Artefatos documentais do projeto
+Modelos DER
+Scripts
