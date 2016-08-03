@@ -1,4 +1,4 @@
 # Artefatos documentais
 
-Modelos DER
-Scripts
+Modelos DER,
+Scripts.
